@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/XNz3l6VXFfMAAAAi/toronao-toroinoue.gif" alt="Waving Kitten">
 </a>
 </h1> 
-<h3 align="center">I am a student at Tehničko veleučilište Zagreb, and I'm passionate about front-end and back-end development.</h3>
+<h3 align="center">I am a student at Zagreb University of Applied Sciences, and I'm passionate about front-end and back-end development.</h3>
 <img align="right" alt="waterfall" width="400" src="https://i.pinimg.com/originals/8f/1c/1c/8f1c1c40195da13901d70909fdb47c5e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinakolar&label=Profile%20views&color=0e75b6&style=flat" alt="martinakolar" /> </p>
