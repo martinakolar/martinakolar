@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinakolar&show_icons=true&locale=en&layout=compact" alt="martinakolar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinakolar&show_icons=true&locale=en" alt="martinakolar" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinakolar&" alt="martinakolar" /></p>
